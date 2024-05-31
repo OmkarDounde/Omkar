@@ -674,7 +674,7 @@ header .navbar ul li a:hover{
   box-shadow: 0 .5rem 1rem rgba(225, 219, 219, 0.895);
   position: relative;
   overflow:hidden;
-  height:30rem;
+  height:50rem;
 }
 .work .box-container .box img{
   height: 100%;
@@ -695,7 +695,7 @@ header .navbar ul li a:hover{
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  height: 4.5rem;
+  height: 7.2rem;
   width: 100%;
   padding-left: 1rem;
   background: #0f46a2;
