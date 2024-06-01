@@ -22,7 +22,7 @@
     
     {
         "name": "TypeScript",
-        "icon": "  https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png"
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png"
     },
   
     {
@@ -31,7 +31,15 @@
     },
     {
         "name": "AWS",
-        "icon": "  https://img.icons8.com/color/48/amazon-web-services.png"
+        "icon": "https://img.icons8.com/color/48/amazon-web-services.png"
+    },
+    {
+        "name": "Jira",
+        "icon": "https://img.icons8.com/color/48/jira.png"
+    },
+    {
+        "name": "ClickUp",
+        "icon": "https://img.icons8.com/clouds/100/clickup.png"
     },
     {
         "name": "Netlify",
