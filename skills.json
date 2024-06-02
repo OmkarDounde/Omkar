@@ -30,6 +30,21 @@
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/fluency/48/figma.png"
+    },
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"
+    },
+
+    {
+        "name": "Swagger",
+        "icon": "ttps://img.icons8.com/color/48/000000/cloud-function.png"
+    },
+
+
+    {
         "name": "AWS",
         "icon": "https://img.icons8.com/color/48/amazon-web-services.png"
     },
@@ -60,6 +75,11 @@
     {
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    ,
+    {
+        "name": "Wordpress",
+        "icon": "https://img.icons8.com/color/48/wordpress.png"
     },
     {
         "name": "MaterialUI",
